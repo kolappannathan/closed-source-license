@@ -1,5 +1,5 @@
 # Closed Source License
-A simple license for closed source projects
+A simple license for use in closed source projects.
 
 ## License Text 
 
