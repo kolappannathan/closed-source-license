@@ -4,7 +4,9 @@ A simple license template for use in closed source projects.
 ## License Text 
 
 ```
-Copyright (C) <COPYRIGHT HOLDER> - All Rights Reserved.
+All Rights Reserved
+
+Copyright (c) [year] [holder]
 
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
 UNAUTHORIZED COPYING, TRANSFERRING OR REPRODUCTION OF THE CONTENTS OF THIS PROJECT, VIA ANY MEDIUM IS STRICTLY PROHIBITED.
