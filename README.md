@@ -1,6 +1,8 @@
 # Closed Source License
 A simple license template for use in closed source projects.
 
+The License file is located [here](./src/License.txt). The contents of the repository itself are distributed under the [unlicense](https://unlicense.org/) license.
+
 ## License Text 
 
 ```
